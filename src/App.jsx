@@ -51,7 +51,7 @@ export default function App() {
         <section className="space-y-4">
           <h2 className="text-3xl font-bold border-b pb-3 border-purple-500 text-purple-200">Sobre Mim</h2>
           <p className="text-lg leading-relaxed">
-            Olá! Sou um desenvolvedor **Backend** com ênfase em **Node.js** e vasta experiência em integrações com sistemas reais para empresas. 
+            Olá! Sou um desenvolvedor Backend com ênfase em Node.js e vasta experiência em integrações com sistemas reais para empresas. 
             Minha paixão é construir soluções robustas e escaláveis, com foco em otimização de processos e automação. 
             Atualmente, estou aprimorando minhas habilidades cursando Análise e Desenvolvimento de Sistemas, 
             e tenho um histórico comprovado no desenvolvimento de sistemas em produção, como controle de ponto, 
@@ -70,9 +70,9 @@ export default function App() {
               Este sistema é uma solução completa para a gestão de agendamentos de viagens e controle de horas dos técnicos implantadores, 
               atualmente em produção. Ele moderniza processos internos, permitindo a importação de planilhas Excel para agendamentos, 
               disparo automático de mensagens via WhatsApp com detalhes de viagens, e o acompanhamento de horas e relatórios de viagem 
-              pelos técnicos. O backend, desenvolvido em **Node.js com Express**, gerencia integrações complexas, como a leitura de arquivos Excel 
-              e a comunicação bidirecional com o WhatsApp, enquanto o frontend em **EJS** garante uma interface eficiente. 
-              O sistema é hospedado em uma **VM Ubuntu na Oracle Cloud**, assegurando escalabilidade e confiabilidade.
+              pelos técnicos. O backend, desenvolvido em Node.js com Express, gerencia integrações complexas, como a leitura de arquivos Excel 
+              e a comunicação bidirecional com o WhatsApp, enquanto o frontend em EJS garante uma interface eficiente. 
+              O sistema é hospedado em uma VM Ubuntu na Oracle Cloud, assegurando escalabilidade e confiabilidade.
               Possui autenticação robusta por hash e controle de rotas autenticadas.
             </p>
 
@@ -95,8 +95,8 @@ export default function App() {
             <h3 className="text-2xl font-bold text-purple-400 mb-4">Sistema para Associação Comercial</h3>
             <p className="mt-2 text-md leading-relaxed">
               Desenvolvi um sistema completo para a Associação Comercial de Presidente Prudente, focado na gestão eficiente 
-              de usuários, agendamento de salas e controle de consumo. Este projeto utilizou **React** para o frontend, 
-              proporcionando uma experiência de usuário dinâmica e responsiva, e **Node.js** para o backend, 
+              de usuários, agendamento de salas e controle de consumo. Este projeto utilizou React para o frontend, 
+              proporcionando uma experiência de usuário dinâmica e responsiva, e Node.js para o backend, 
               garantindo a robustez e a segurança das operações.
             </p>
             
